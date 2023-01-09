@@ -1,1 +1,1 @@
-# WD42P_JS_Loops_Exercise_jan7
+# Exercise 3  Javascript Function and Loop
